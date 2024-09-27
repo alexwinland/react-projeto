@@ -1,4 +1,4 @@
-*Projeto React*
+**Projeto React**
 
 Este repositório abriga um projeto animado construído com tecnologias modernas para uma experiência web fluida e visualmente atraente. Vamos dar uma olhada no que está cozinhando:
 
