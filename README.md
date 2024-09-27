@@ -4,13 +4,13 @@
 
 Este repositório abriga um projeto animado construído com tecnologias modernas para uma experiência web fluida e visualmente atraente. Vamos dar uma olhada no que está cozinhando:
 
-**Tecnologias em Ação:**
+## **Tecnologias em Ação:**
 
 - **React (JSX):** A biblioteca JavaScript usada para criar interfaces de usuário dinâmicas e componentizadas. JSX, uma extensão da sintaxe JavaScript, permite a escrita de código HTML dentro de JavaScript, tornando a criação de componentes intuitiva e eficiente.
 - **TypeScript (TSX):** Um superconjunto de JavaScript que adiciona tipagem estática para melhorar a detecção de erros e a manutenção do código. Ele oferece a familiaridade do JavaScript com a segurança e a legibilidade do código aprimoradas pela tipagem.
 - **Tailwind CSS:** Um framework CSS de baixo nível que fornece classes utilitárias para estilizar rapidamente elementos HTML. Tailwind permite a criação de interfaces responsivas e personalizadas de forma simplificada.
 
-**Arquivos-chave e Componentes:**
+## **Arquivos-chave e Componentes:**
 
 - **`Pagina.tsx`**: Define o layout base da aplicação.
 - **`Home.tsx`**: O componente inicial que exibe uma saudação de boas-vindas.
@@ -19,11 +19,11 @@ Este repositório abriga um projeto animado construído com tecnologias modernas
 - **`Formulario.tsx`**: Gerencia um formulário para coleta de dados do usuário, com campos de nome, email, senha e um botão de salvar.
 - **`useFormularioUsuario.tsx`**: Hook personalizado que lida com o estado do formulário do usuário, como nome, email, senha e a lógica de salvamento.
 
-**Estrutura Geral:**
+## **Estrutura Geral:**
 
 A aplicação usa o conceito de componentes reutilizáveis para construir a interface. O componente `Pagina.tsx` provavelmente define o layout geral e aloca espaço para outros componentes, como `Home.tsx`, `Contador.tsx` e `Formulario.tsx`.
 
-**Para Executar:**
+## **Para Executar:**
 
 Para iniciar a aplicação localmente, certifique-se de ter o Node.js e o npm instalados. Siga estas etapas:
 
@@ -34,10 +34,6 @@ Para iniciar a aplicação localmente, certifique-se de ter o Node.js e o npm in
 5. Execute `npm run dev` para iniciar o servidor de desenvolvimento.
 6. Acesse `http://localhost:3000` (ou a porta especificada no script `dev` do `package.json`) em seu navegador para ver a aplicação em funcionamento.
 
-**Contribuindo:**
+## **Contribuindo:**
 
 Se você deseja contribuir para este projeto, sinta-se à vontade para enviar pull requests! Certifique-se de seguir as diretrizes de contribuição existentes, se houver.
-
-**E aí, pronto para dar uma volta? **
-
-Este README.md fornece uma visão geral amigável do projeto, explicando as tecnologias usadas e como executá-lo localmente. Se você tiver alguma dúvida ou precisar de mais informações, sinta-se à vontade para abrir um issue.
